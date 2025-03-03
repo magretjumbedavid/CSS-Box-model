@@ -1,0 +1,10 @@
+.container{
+    border: dotted 2px blue;
+    padding: 20px;
+    margin: 5px;
+    
+}
+.inner-container{
+    border: solid 2px brown;
+
+}
